@@ -1,0 +1,19 @@
+{
+  "name": "jccc_capstone",
+  "version": "1.0.0",
+  "description": "This is my final project, JCCC Capstop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TasneemQ/JCCC_Capstone.git"
+  },
+  "author": "Tasneem Qadeer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TasneemQ/JCCC_Capstone/issues"
+  },
+  "homepage": "https://github.com/TasneemQ/JCCC_Capstone#readme"
+}
